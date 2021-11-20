@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":186:{a:2:{s:7:"defects";a:2:{s:23:"ValidateTest::test_emai";i:4;s:22:"ValidateTest::test_url";i:4;}s:5:"times";a:2:{s:23:"ValidateTest::test_emai";d:0.007;s:22:"ValidateTest::test_url";d:0;}}}
